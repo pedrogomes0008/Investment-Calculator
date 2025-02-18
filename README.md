@@ -20,7 +20,7 @@ View of the application running:
 
 ## How to Run the project
 
-Follow the next steps to run Manage Tasks on your machine:
+Follow the next steps to run Investment Calculator on your machine:
 
 ### Prerequisites
 
@@ -32,8 +32,8 @@ Follow the next steps to run Manage Tasks on your machine:
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/pedrogomes0008/Manage-Tasks.git
-   cd Manage-Tasks
+   git clone https://github.com/pedrogomes0008/Investment-Calculator.git
+   cd Investment-Calculator
 
 2. **Install Dependecies:**
    
